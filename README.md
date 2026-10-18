@@ -22,7 +22,9 @@
 
 **ClusterVariable** is an R package developed as part of the Master 2 SISE 2025-2026 program that implements variable clustering algorithms with comprehensive interpretation tools. The package offers three main approaches for grouping correlated variables
 
-  
+ ### 🎥 Video Demonstration
+
+[![Watch the video](https://img.youtube.com/vi/QLcB4dYoyZ0/0.jpg)](https://www.youtube.com/watch?v=QLcB4dYoyZ0) 
 
 ##  Features
 
