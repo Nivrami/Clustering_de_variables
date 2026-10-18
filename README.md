@@ -1,5 +1,7 @@
 # ClusterVariable
 
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![Shiny](https://img.shields.io/badge/Shiny-75AADB?logo=rstudioide&logoColor=white)
+
 > **R Package for Clustering Variables**  
 > Algorithms and Tools for Interpreting Results
 
